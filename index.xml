@@ -6,10 +6,19 @@
     <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 10:23:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 11:44:16 +0800</lastBuildDate>
     
 	<atom:link href="https://Sevenbule.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://Sevenbule.github.io/2023/06/14/second/</link>
+      <pubDate>Wed, 14 Jun 2023 11:44:16 +0800</pubDate>
+      
+      <guid>https://Sevenbule.github.io/2023/06/14/second/</guid>
+      <description>hello world</description>
+    </item>
     
     <item>
       <title>First</title>
