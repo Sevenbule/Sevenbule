@@ -1,33 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Icarus</title>
-    <link>https://Sevenbule.github.io/</link>
-    <description>Recent content on Icarus</description>
+    <title>Paper</title>
+    <link>https://sevenbule.github.io/</link>
+    <description>Recent content on Paper</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 11:44:16 +0800</lastBuildDate>
-    
-	<atom:link href="https://Sevenbule.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 14 Jun 2023 11:44:16 +0800</lastBuildDate><atom:link href="https://sevenbule.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>https://Sevenbule.github.io/2023/06/14/second/</link>
+      <link>https://sevenbule.github.io/post/second/</link>
       <pubDate>Wed, 14 Jun 2023 11:44:16 +0800</pubDate>
       
-      <guid>https://Sevenbule.github.io/2023/06/14/second/</guid>
+      <guid>https://sevenbule.github.io/post/second/</guid>
       <description>hello world</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://Sevenbule.github.io/2023/06/14/first/</link>
-      <pubDate>Wed, 14 Jun 2023 10:23:21 +0800</pubDate>
+      <link>https://sevenbule.github.io/post/first/</link>
+      <pubDate>Tue, 14 Jun 2022 10:23:21 +0800</pubDate>
       
-      <guid>https://Sevenbule.github.io/2023/06/14/first/</guid>
-      <description>this is a test helloworld what is your name
-发生了什么</description>
+      <guid>https://sevenbule.github.io/post/first/</guid>
+      <description>这是第一篇博客 将对生活学习进行记录。(＾－＾)V</description>
     </item>
     
   </channel>
